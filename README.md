@@ -18,7 +18,7 @@
 |------|------|--------|----------|----------|-----|
 | 1 주차 | 디자인 개요서 작성 | [보고서](링크) | [발표자료](링크) | [발표영상](https://youtu.be/RZZ-DLaV8E4) | PR |
 | 2 주차 | 문제점 목록 작성 | [보고서](링크) | [발표자료](링크) | [발표영상](https://youtu.be/Qe-eWiPlPvw) | PR |
-| 3 주차 | 프로젝트 브레인스토밍 결과 작성 | 보고서 | [발표자료](https://github.com/seohyun125/Computer-Education/pull/4/commits/3f9607fec0618a6ee9d7c3efe57274d9ef84b088) | [발표영상](https://youtu.be/iI_K9coAaEg) | PR |
+| 3 주차 | [프로젝트 브레인스토밍 결과 작성](docs/2조-3주차-중고등학교 정보 교육을 위한 프로그래밍 학습 플랫폼 개발-문제점목록.pdf) | 보고서 | [발표자료](https://github.com/seohyun125/Computer-Education/pull/4/commits/3f9607fec0618a6ee9d7c3efe57274d9ef84b088) | [발표영상](https://youtu.be/iI_K9coAaEg) | PR |
 | 4 주차 | 문제정의서 작성 | 보고서 | 발표자료 | 발표영상 | PR |
 | 5 주차 | 요구사항 명세서 작성 | 보고서 | 발표자료 | 발표영상 | PR |
 | 6 주차 | 유스케이스 명세서 작성 | 보고서 | 발표자료 | 발표영상 | PR |
