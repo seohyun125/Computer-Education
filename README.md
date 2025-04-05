@@ -19,7 +19,7 @@
 | 1 주차 | 디자인 개요서 작성 | [보고서](링크) | [발표자료](링크) | [발표영상](https://youtu.be/RZZ-DLaV8E4) | [PR](https://github.com/seohyun125/Computer-Education/pull/1) |
 | 2 주차 | 문제점 목록 작성 | [보고서](링크) | [발표자료](링크) | [발표영상](https://youtu.be/Qe-eWiPlPvw) | [PR](https://github.com/seohyun125/Computer-Education/pull/2) |
 | 3 주차 | 프로젝트 브레인스토밍 결과 작성 | [보고서](https://github.com/seohyun125/Computer-Education/blob/main/docs/2%EC%A1%B0-3%EC%A3%BC%EC%B0%A8-%EC%A4%91%EA%B3%A0%EB%93%B1%ED%95%99%EA%B5%90%20%EC%A0%95%EB%B3%B4%20%EA%B5%90%EC%9C%A1%EC%9D%84%20%EC%9C%84%ED%95%9C%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%ED%95%99%EC%8A%B5%20%ED%94%8C%EB%9E%AB%ED%8F%BC%20%EA%B0%9C%EB%B0%9C-%EB%AC%B8%EC%A0%9C%EC%A0%90%EB%AA%A9%EB%A1%9D.pdf) | [발표자료](https://github.com/seohyun125/Computer-Education/pull/4/commits/3f9607fec0618a6ee9d7c3efe57274d9ef84b088) | [발표영상](https://youtu.be/iI_K9coAaEg) | [PR](https://github.com/seohyun125/Computer-Education/pull/4) |
-| 4 주차 | 문제정의서 작성 | 보고서 | [발표자료](https://github.com/seohyun125/Computer-Education/pull/5/commits/21ea4058c5e8375ed1bedf9f239e86245f82f45a) | [발표영상](https://youtu.be/HBUPL6cR4Qc) | [PR](https://github.com/seohyun125/Computer-Education/pull/5) |
+| 4 주차 | 문제정의서 작성 | [보고서](https://github.com/seohyun125/Computer-Education/pull/5/commits/2521e0ac741d64ad9e862b609c7986c172bf300b) | [발표자료](https://github.com/seohyun125/Computer-Education/pull/5/commits/21ea4058c5e8375ed1bedf9f239e86245f82f45a) | [발표영상](https://youtu.be/HBUPL6cR4Qc) | [PR](https://github.com/seohyun125/Computer-Education/pull/5) |
 | 5 주차 | 요구사항 명세서 작성 | 보고서 | 발표자료 | 발표영상 | PR |
 | 6 주차 | 유스케이스 명세서 작성 | 보고서 | 발표자료 | 발표영상 | PR |
 | 7 주차 | 시퀀스 다이어그램 작성 | 보고서 | 발표자료 | 발표영상 | PR |
