@@ -22,7 +22,7 @@
 | 4 주차 | 문제정의서 작성 | [보고서](https://github.com/seohyun125/Computer-Education/pull/5/commits/2521e0ac741d64ad9e862b609c7986c172bf300b) | [발표자료](https://github.com/seohyun125/Computer-Education/pull/5/commits/21ea4058c5e8375ed1bedf9f239e86245f82f45a) | [발표영상](https://youtu.be/HBUPL6cR4Qc) | [PR](https://github.com/seohyun125/Computer-Education/pull/5) |
 | 5 주차 | 요구사항 명세서 작성 | 보고서 | 발표자료 | 발표영상 | PR |
 | 6 주차 | 유스케이스 명세서 작성 | [보고서](https://github.com/seohyun125/Computer-Education/pull/6/commits/8a4b66f1434af883f59f020ab95b1bcbfe55ff01) | [발표자료](https://github.com/seohyun125/Computer-Education/pull/6/commits/2ce351599090acf3c43a65d1f8b1117725261721) | [발표영상](https://youtu.be/7xURESZFGMo) | [PR](https://github.com/seohyun125/Computer-Education/pull/6) |
-| 7 주차 | 시퀀스 다이어그램 작성 | 보고서 | 발표자료 | 발표영상 | PR |
+| 8 주차 | 시퀀스 다이어그램 작성 | [보고서](https://github.com/seohyun125/Computer-Education/pull/7/commits/e6d49c003ff1759ba5090f866e7c3726bb95f342) | 발표자료 | [발표영상](https://youtu.be/2Ai939k-KQ4) | [PR](https://github.com/seohyun125/Computer-Education/pull/7) |
 | 9 주차 | 테스트 계획서 작성 | 보고서 | 발표자료 | 발표영상 | PR |
 | 10 주차 | 테스트케이스 설계서 작성 | 보고서 | 발표자료 | 발표영상 | PR |
 | 12 주차 | 테스트 결과 보고서 작성 | 보고서 | 발표자료 | 발표영상 | PR |
